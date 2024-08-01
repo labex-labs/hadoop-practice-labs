@@ -47,7 +47,7 @@ This course contains lots of labs for Hadoop, each lab is a small Hadoop project
 |      34 | 📖 Hadoop Yarn Commands application          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289009'>Start Lab</a> |
 |      35 | 📖 Hadoop Yarn Commands container            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289010'>Start Lab</a> |
 |      36 | 📖 Spacecraft Operations With YARN Logs      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289012'>Start Lab</a> |
-|      37 | 📖 Mastering Datopia with Hadoop Yarn        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289011'>Start Lab</a> |
+|      37 | 📖 Datopia with Hadoop Yarn                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289011'>Start Lab</a> |
 |      38 | 📖 Resource Defense Command Center           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/289013'>Start Lab</a> |
 |      39 | 📖 Ninja Resource Management Mastery         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/288992'>Start Lab</a> |
 |      40 | 📖 Whispering Woods Node Manager Quest       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/288988'>Start Lab</a> |
